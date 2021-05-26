@@ -1,6 +1,6 @@
 ## This is My Portfolio
 
-Below you will find some of the project that I am proud to have worked on!
+Below you will find some of the projects that I am proud to have worked on!
 
 ### Honours Project
 
@@ -20,4 +20,5 @@ Here is a trailer for the game that was made by one of the producers on the team
   <iframe src="https://www.youtube.com/embed/ZPN_TFEnZ_U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+Github Link to the full project can be found [here](https://github.com/GRodger99/DES310_Project-1)
 
