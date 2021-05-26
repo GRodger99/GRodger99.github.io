@@ -13,7 +13,7 @@ You can find a working version of this project [here](https://drive.google.com/f
 During my Third year of university i was tasked to work with a group to create a game based on a brief provided to us by The Chinese Room. During this project I primarily worked on implementing the audio solution through wWise into Unreal Engine 4, while also working partly on gameplay and implementing the animations.
 ![ProProjectImg](https://lh3.googleusercontent.com/UPnPu3RZCih47UPXrGoY-oQH7HXXp7TS82iEcrO139nOgTd1S2Lz2OF4mKxayaQ2vuzjcY_mHK7CAstwt-83DjNxygy74GdbRd4dS7cEnxfbjHTtGLZ4O0hawMH-l21IUmHEdYTjxw=w2400)
 
-<figure class="video_container">
+<figure width="560" height="315" class="video_container">
   <iframe src="https://www.youtube.com/embed/ZPN_TFEnZ_U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
