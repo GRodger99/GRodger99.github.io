@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## This is my Portfolio
 
 You can use the [editor on GitHub](https://github.com/GRodger99/GRodger99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Honours Project
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+My Honours Project was a retrofitted game that was made to sync gameplay to the user's choice of music
+![Image](https://images.squarespace-cdn.com/content/v1/5355d604e4b03c3e9896e131/1577216537446-HXRWC1QZN7WEXSABEWI3/ke17ZwdGBToddI8pDm48kLl76CqolYQpYCK1tQUkpCVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxWNZ_v0dkiu6uws_J5Elwz91lXp-SVV4UdMxBg-Z-H5QRqoF1H6j8zvH_S4H66Thg/image-asset.png?format=1000w)
 ```markdown
 Syntax highlighted code block
 
