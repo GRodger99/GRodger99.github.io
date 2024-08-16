@@ -2627,12 +2627,13 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
-		border: 0;
-		border-radius: 4px;
-		display: inline-block;
-		position: relative;
-	}
+.image {
+	border: 0;
+	border-radius: 4px;
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+}
 
 		.image img {
 			display: block;
